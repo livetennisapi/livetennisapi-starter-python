@@ -1,0 +1,6 @@
+# Rides the official Python SDK. The [ws] extra pulls in `websockets` for the
+# live feed. Pinned so a fresh clone is reproducible.
+livetennisapi[ws]==1.1.0
+
+# Dev-only, for `pytest`:
+pytest==8.3.4
