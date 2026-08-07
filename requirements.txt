@@ -3,4 +3,4 @@
 livetennisapi[ws]==1.3.0
 
 # Dev-only, for `pytest`:
-pytest==8.3.4
+pytest==9.0.3
