@@ -20,6 +20,8 @@ every frame to a `Strategy`, and logs the paper action the strategy would take.
 
 ## Run it
 
+> Needs **Python 3.10+** (the app runs on 3.9, but the pinned `pytest` needs 3.10).
+
 ```bash
 cp .env.example .env          # then put your ULTRA key in .env
 pip install -r requirements.txt
